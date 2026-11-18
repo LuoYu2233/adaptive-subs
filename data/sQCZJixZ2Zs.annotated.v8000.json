@@ -1,0 +1,3396 @@
+[
+ {
+  "start": 30.16,
+  "end": 37.04,
+  "text": "This is going to be the most promising technology in human history. AI is capturing the essence",
+  "notes": []
+ },
+ {
+  "start": 37.04,
+  "end": 42.96,
+  "text": "of cognition. In 2024 and 2025, coding became possible. And now we're starting",
+  "notes": [
+   {
+    "start": 3,
+    "end": 12,
+    "zh": "认知"
+   }
+  ]
+ },
+ {
+  "start": 42.96,
+  "end": 49.12,
+  "text": "to find that agents that do things end to end in other areas of knowledge work are possible.",
+  "notes": []
+ },
+ {
+  "start": 49.12,
+  "end": 54.08,
+  "text": "And even more recently, we're starting to see that fundamental discoveries in areas like",
+  "notes": []
+ },
+ {
+  "start": 54.08,
+  "end": 62.24,
+  "text": "biology and mathematics and physics are becoming possible. If humans can use AI to cure cancer,",
+  "notes": []
+ },
+ {
+  "start": 62.24,
+  "end": 69.52,
+  "text": "an evil human can use AI to make a bioweapon or do a cyber attack. We cannot succeed if we don't",
+  "notes": [
+   {
+    "start": 35,
+    "end": 44,
+    "zh": "生物武器"
+   }
+  ]
+ },
+ {
+  "start": 69.52,
+  "end": 74.16,
+  "text": "address these risks. And and we are absolutely determined to get this right because this is",
+  "notes": []
+ },
+ {
+  "start": 74.16,
+  "end": 86.8,
+  "text": "why I and this is why many people who work at Anthropic, this is why we work on this technology.",
+  "notes": []
+ },
+ {
+  "start": 86.8,
+  "end": 92.56,
+  "text": "Intelligence is now something humans can build. The implications of this are profound.",
+  "notes": []
+ },
+ {
+  "start": 92.56,
+  "end": 97.12,
+  "text": "We believe it will make every person far more capable and expand the world's capacity for",
+  "notes": []
+ },
+ {
+  "start": 97.12,
+  "end": 103.2,
+  "text": "cognitive work, transforming every industry and every discipline. This enormous economic impact",
+  "notes": []
+ },
+ {
+  "start": 103.2,
+  "end": 110.48,
+  "text": "begins with frontier intelligence with what Claude can do. In 2024, Claude could answer a question,",
+  "notes": []
+ },
+ {
+  "start": 110.48,
+  "end": 116.56,
+  "text": "retrieve information, or summarize a document. By the end of 2025, Claude could do deep research",
+  "notes": [
+   {
+    "start": 0,
+    "end": 20,
+    "zh": "检索"
+   }
+  ]
+ },
+ {
+  "start": 116.56,
+  "end": 122.88,
+  "text": "and multi-step projects like refactoring an entire codebase. The type of task that required hours or",
+  "notes": [
+   {
+    "start": 29,
+    "end": 59,
+    "zh": "重构代码"
+   }
+  ]
+ },
+ {
+  "start": 122.88,
+  "end": 130.72,
+  "text": "even days of human work. Today, Claude can take on complex open-ended projects that once took months",
+  "notes": []
+ },
+ {
+  "start": 130.72,
+  "end": 137.84,
+  "text": "or years of research, analysis, and execution by many people and complete them in days. In",
+  "notes": []
+ },
+ {
+  "start": 137.84,
+  "end": 144.0,
+  "text": "the near future, we see potential for Frontier AI to drive some of humanity's greatest breakthroughs",
+  "notes": [
+   {
+    "start": 87,
+    "end": 100,
+    "zh": "突破"
+   }
+  ]
+ },
+ {
+  "start": 144.0,
+  "end": 151.28,
+  "text": "and open entirely new markets. Our success thus far emerges from five core advantages.",
+  "notes": [
+   {
+    "start": 52,
+    "end": 59,
+    "zh": "出现/产生"
+   }
+  ]
+ },
+ {
+  "start": 151.28,
+  "end": 157.76,
+  "text": "These are our mission and focus, talent and culture, frontier research and safety work,",
+  "notes": []
+ },
+ {
+  "start": 157.76,
+  "end": 163.04,
+  "text": "our approach to compute, and our enterprise strategy. All of this begins with our mission,",
+  "notes": [
+   {
+    "start": 16,
+    "end": 23,
+    "zh": "计算资源"
+   }
+  ]
+ },
+ {
+  "start": 163.04,
+  "end": 168.32,
+  "text": "the responsible development and maintenance of advanced AI for the long-term benefit of",
+  "notes": []
+ },
+ {
+  "start": 168.32,
+  "end": 175.2,
+  "text": "humanity. It's an organizing force and key to our focused execution. We manage a universe of finite",
+  "notes": [
+   {
+    "start": 93,
+    "end": 99,
+    "zh": "有限的"
+   }
+  ]
+ },
+ {
+  "start": 175.2,
+  "end": 181.44,
+  "text": "resources. compute, talent, and research capacity. The mission is how we create clarity for the team",
+  "notes": [
+   {
+    "start": 80,
+    "end": 87,
+    "zh": "清晰"
+   }
+  ]
+ },
+ {
+  "start": 181.44,
+  "end": 187.84,
+  "text": "and deploy those resources to maximum effect at challenging moments that call for hard choices.",
+  "notes": [
+   {
+    "start": 4,
+    "end": 10,
+    "zh": "部署"
+   }
+  ]
+ },
+ {
+  "start": 187.84,
+  "end": 193.04,
+  "text": "Our mission sharpens our decision-making. It led us to deploy models like Mythos exclusively to",
+  "notes": [
+   {
+    "start": 12,
+    "end": 20,
+    "zh": "使更明确"
+   }
+  ]
+ },
+ {
+  "start": 193.04,
+  "end": 199.68,
+  "text": "cyber defenders. It also led us to commit to keep cla free of advertising. This mission and focus",
+  "notes": []
+ },
+ {
+  "start": 199.68,
+  "end": 204.88,
+  "text": "continued to attract the very best talent in the industry. That's been true since our founding.",
+  "notes": []
+ },
+ {
+  "start": 204.88,
+  "end": 210.48,
+  "text": "Our seven co-founders include the originators of ideas that now make up the foundation of the AI",
+  "notes": [
+   {
+    "start": 34,
+    "end": 45,
+    "zh": "起源者/创始人"
+   }
+  ]
+ },
+ {
+  "start": 210.48,
+  "end": 216.56,
+  "text": "industry. This concentration of top talent extends to all levels of the organization",
+  "notes": []
+ },
+ {
+  "start": 216.56,
+  "end": 228.64,
+  "text": "and we lead the industry in attracting and retaining the brightest minds in the field.",
+  "notes": []
+ },
+ {
+  "start": 233.6,
+  "end": 240.0,
+  "text": "Why do I work at Anthropic? Because I'm an optimist. I want to save a",
+  "notes": [
+   {
+    "start": 43,
+    "end": 51,
+    "zh": "乐观者"
+   }
+  ]
+ },
+ {
+  "start": 240.0,
+  "end": 245.44,
+  "text": "better world for my family and for humanity.",
+  "notes": []
+ },
+ {
+  "start": 245.44,
+  "end": 250.88,
+  "text": "3 years ago, my older brother died of a brain tumor at the age of 42,",
+  "notes": []
+ },
+ {
+  "start": 250.88,
+  "end": 256.24,
+  "text": "which is the age that I am now. And I believe deeply that through our mission",
+  "notes": []
+ },
+ {
+  "start": 256.24,
+  "end": 262.32,
+  "text": "and this technology, there will be a situation where people like my brother don't have to die.",
+  "notes": []
+ },
+ {
+  "start": 263.92,
+  "end": 267.84,
+  "text": "Somebody has to carry the weight of getting this right. And I really didn't want to watch from the",
+  "notes": []
+ },
+ {
+  "start": 267.84,
+  "end": 276.4,
+  "text": "sidelines. People here ask, \"Is this the right thing to do?\" before they ask, \"Can we do it?\"",
+  "notes": [
+   {
+    "start": 0,
+    "end": 10,
+    "zh": "旁观"
+   }
+  ]
+ },
+ {
+  "start": 278.4,
+  "end": 283.2,
+  "text": "It's a rare combination of a group of people who care deeply about making AI",
+  "notes": []
+ },
+ {
+  "start": 283.2,
+  "end": 289.6,
+  "text": "go well and also care deeply about competence, coherence, integrity,",
+  "notes": [
+   {
+    "start": 35,
+    "end": 46,
+    "zh": "能力"
+   },
+   {
+    "start": 47,
+    "end": 57,
+    "zh": "连贯性"
+   }
+  ]
+ },
+ {
+  "start": 289.6,
+  "end": 296.8,
+  "text": "qualities that actually make an organization effective. These benefits and these risks,",
+  "notes": []
+ },
+ {
+  "start": 296.8,
+  "end": 303.6,
+  "text": "this light and this shade precisely why I chose to come to work at Anthropic.",
+  "notes": []
+ },
+ {
+  "start": 306.32,
+  "end": 311.12,
+  "text": "The work we do to make our models safe and reliable is the same work that makes them",
+  "notes": []
+ },
+ {
+  "start": 311.12,
+  "end": 318.08,
+  "text": "more capable. We care about useful intelligence. How effectively a model handles a realworld task",
+  "notes": [
+   {
+    "start": 83,
+    "end": 92,
+    "zh": "现实世界"
+   }
+  ]
+ },
+ {
+  "start": 318.08,
+  "end": 323.36,
+  "text": "and the value this delivers to customers. We're relentlessly focused on answering the question,",
+  "notes": [
+   {
+    "start": 48,
+    "end": 60,
+    "zh": "不懈地"
+   }
+  ]
+ },
+ {
+  "start": 323.36,
+  "end": 328.72,
+  "text": "what can Claude do for me that other models can't? Compute is the critical",
+  "notes": []
+ },
+ {
+  "start": 328.72,
+  "end": 334.24,
+  "text": "infrastructure that enables this work. We've built a differentiated advantage here, not just in how",
+  "notes": [
+   {
+    "start": 53,
+    "end": 67,
+    "zh": "差异化"
+   }
+  ]
+ },
+ {
+  "start": 334.24,
+  "end": 338.72,
+  "text": "we build our compute capacity, but in how we make the most of this capacity through the discovery",
+  "notes": [
+   {
+    "start": 13,
+    "end": 20,
+    "zh": "计算资源"
+   }
+  ]
+ },
+ {
+  "start": 338.72,
+  "end": 344.16,
+  "text": "of compute multipliers. We are the leading AI lab that has been focused on building for the",
+  "notes": [
+   {
+    "start": 11,
+    "end": 22,
+    "zh": "倍增因素"
+   }
+  ]
+ },
+ {
+  "start": 344.16,
+  "end": 349.28,
+  "text": "enterprise from day one. We train our frontier models to address knowledge work. As a result,",
+  "notes": []
+ },
+ {
+  "start": 349.28,
+  "end": 355.04,
+  "text": "our customers get the best of both capability and value. These customers have enabled our historic",
+  "notes": []
+ },
+ {
+  "start": 355.04,
+  "end": 362.4,
+  "text": "growth and they span industries across financial services, technology, pharma, healthcare,",
+  "notes": [
+   {
+    "start": 71,
+    "end": 77,
+    "zh": "制药业"
+   }
+  ]
+ },
+ {
+  "start": 362.4,
+  "end": 367.76,
+  "text": "government, manufacturing and more. And this is also where our public benefit mission and",
+  "notes": []
+ },
+ {
+  "start": 367.76,
+  "end": 373.52,
+  "text": "safety focus find natural alignment. Enterprises care that the frontier is safe, trustworthy, and",
+  "notes": [
+   {
+    "start": 26,
+    "end": 35,
+    "zh": "对齐"
+   }
+  ]
+ },
+ {
+  "start": 373.52,
+  "end": 379.76,
+  "text": "useful as much as we do. As Frontier Intelligence grows more capable, our dedicated focus on safety",
+  "notes": []
+ },
+ {
+  "start": 379.76,
+  "end": 384.88,
+  "text": "research becomes that much more important. It's critically important to our customers and",
+  "notes": [
+   {
+    "start": 48,
+    "end": 58,
+    "zh": "极其"
+   }
+  ]
+ },
+ {
+  "start": 384.88,
+  "end": 390.32,
+  "text": "necessary for realizing AI's full potential and Anthropic is fully committed to doing this work",
+  "notes": []
+ },
+ {
+  "start": 390.32,
+  "end": 395.04,
+  "text": "with excellence. Our public benefit mission is what brought us to this point and it will continue",
+  "notes": []
+ },
+ {
+  "start": 395.04,
+  "end": 399.44,
+  "text": "to shape our work including at the governance level. In addition to our executive leadership",
+  "notes": []
+ },
+ {
+  "start": 399.44,
+  "end": 404.08,
+  "text": "and our board of directors, Anthropic is advised by the Long-Term Benefit Trust,",
+  "notes": []
+ },
+ {
+  "start": 404.08,
+  "end": 408.48,
+  "text": "an independent financially disinterested body that selects a majority of our board.",
+  "notes": [
+   {
+    "start": 27,
+    "end": 40,
+    "zh": "无利益关系"
+   }
+  ]
+ },
+ {
+  "start": 408.48,
+  "end": 413.68,
+  "text": "The LGBT's role is to help anthropic plan for and fulfill our public benefit mission as we",
+  "notes": []
+ },
+ {
+  "start": 413.68,
+  "end": 419.28,
+  "text": "grow. We believe AI's future should be shaped and led by democratic societies. We want to be",
+  "notes": []
+ },
+ {
+  "start": 419.28,
+  "end": 424.8,
+  "text": "good partners in helping governments adapt to the changes that come with AI's rising capability. We",
+  "notes": []
+ },
+ {
+  "start": 424.8,
+  "end": 428.96,
+  "text": "do this at the executive level through the work of our policy team and through efforts like the",
+  "notes": []
+ },
+ {
+  "start": 428.96,
+  "end": 434.72,
+  "text": "Anthropic Institute, which shares research on how Frontier AI shapes how we live our lives.",
+  "notes": []
+ },
+ {
+  "start": 434.72,
+  "end": 439.68,
+  "text": "We are still early in what we believe will be the biggest transformation of the human experience in",
+  "notes": []
+ },
+ {
+  "start": 439.68,
+  "end": 445.2,
+  "text": "the modern age. Not just the profound economic potential, but in all the ways in which we",
+  "notes": []
+ },
+ {
+  "start": 445.2,
+  "end": 451.2,
+  "text": "believe AI can help humanity flourish. From curing diseases to accelerating growth to helping people",
+  "notes": [
+   {
+    "start": 29,
+    "end": 37,
+    "zh": "繁荣"
+   }
+  ]
+ },
+ {
+  "start": 451.2,
+  "end": 458.8,
+  "text": "live more fulfilled and abundant lives. So if you think about our claude model family, it's",
+  "notes": [
+   {
+    "start": 10,
+    "end": 19,
+    "zh": "成就感"
+   },
+   {
+    "start": 24,
+    "end": 32,
+    "zh": "丰富的"
+   }
+  ]
+ },
+ {
+  "start": 458.8,
+  "end": 464.72,
+  "text": "designed to deliver value across all the goals you might have. Whether you're optimizing for cost or",
+  "notes": []
+ },
+ {
+  "start": 464.72,
+  "end": 472.56,
+  "text": "speed or intelligence, at the top end, Mythos and Fable push the frontier forward, we see customers",
+  "notes": []
+ },
+ {
+  "start": 472.56,
+  "end": 479.04,
+  "text": "use it to harden cyber infrastructure or make new scientific discoveries. At the other end, we have",
+  "notes": [
+   {
+    "start": 10,
+    "end": 16,
+    "zh": "加固"
+   }
+  ]
+ },
+ {
+  "start": 479.04,
+  "end": 485.04,
+  "text": "models that are extremely capable and highly cost effective and businesses can rely on them at scale",
+  "notes": []
+ },
+ {
+  "start": 485.04,
+  "end": 491.36,
+  "text": "for well-defined routine tasks. A key thing we think about is how everyone can get the benefit",
+  "notes": []
+ },
+ {
+  "start": 491.36,
+  "end": 497.92,
+  "text": "of that whole spectrum of models. Because even as model capability increases exponentially, what",
+  "notes": [
+   {
+    "start": 77,
+    "end": 90,
+    "zh": "指数增长"
+   }
+  ]
+ },
+ {
+  "start": 497.92,
+  "end": 505.28,
+  "text": "most people do with the models doesn't change that fast. We think about three principles as we build.",
+  "notes": []
+ },
+ {
+  "start": 505.28,
+  "end": 511.84,
+  "text": "The first is meeting customers where they are. There's a few ways to use cloud. First is through",
+  "notes": []
+ },
+ {
+  "start": 511.84,
+  "end": 517.12,
+  "text": "our own applications like cloud code or the cloud desktop or mobile app. But claude is also",
+  "notes": []
+ },
+ {
+  "start": 517.12,
+  "end": 522.64,
+  "text": "available in enterprise applications like word and excel. We go deep into verticals and try to",
+  "notes": []
+ },
+ {
+  "start": 522.64,
+  "end": 529.76,
+  "text": "understand what does an expert in this domain need to be successful immediately. For instance, if",
+  "notes": []
+ },
+ {
+  "start": 529.76,
+  "end": 535.92,
+  "text": "you're a lawyer, we have a cloud for legal bundle which connects directly to the tools you need.",
+  "notes": []
+ },
+ {
+  "start": 535.92,
+  "end": 543.6,
+  "text": "This is something we think about for every domain. We have bundles for healthare, financial services,",
+  "notes": []
+ },
+ {
+  "start": 543.6,
+  "end": 550.56,
+  "text": "life sciences and more. Our second principle is that we build models and products side by side.",
+  "notes": []
+ },
+ {
+  "start": 550.56,
+  "end": 557.2,
+  "text": "We develop products for tomorrow's models, not just today's. Claude code is a great illustration",
+  "notes": []
+ },
+ {
+  "start": 557.2,
+  "end": 563.28,
+  "text": "of why that matters. A couple of years ago, we could see that our pre-release models were",
+  "notes": []
+ },
+ {
+  "start": 563.28,
+  "end": 568.24,
+  "text": "getting better at understanding code. Couldn't quite do it all yet, but we could see the trend",
+  "notes": []
+ },
+ {
+  "start": 568.24,
+  "end": 574.96,
+  "text": "line. We built a product around that thinking, and Cloud Code was launched just a few months later.",
+  "notes": []
+ },
+ {
+  "start": 574.96,
+  "end": 581.92,
+  "text": "that introduced people to an entirely new way of coding and of understanding what AI can do.",
+  "notes": []
+ },
+ {
+  "start": 581.92,
+  "end": 587.68,
+  "text": "This flywheel between model and product is a durable advantage in how we build. The model",
+  "notes": [
+   {
+    "start": 5,
+    "end": 13,
+    "zh": "正反馈循环"
+   },
+   {
+    "start": 45,
+    "end": 52,
+    "zh": "持久的"
+   }
+  ]
+ },
+ {
+  "start": 587.68,
+  "end": 592.56,
+  "text": "gets better. We develop new features powered by those advancements. Then we train the models to",
+  "notes": [
+   {
+    "start": 54,
+    "end": 66,
+    "zh": "进展"
+   }
+  ]
+ },
+ {
+  "start": 592.56,
+  "end": 597.68,
+  "text": "get even better at what people are trying to do which reinforces the whole system. And we",
+  "notes": [
+   {
+    "start": 54,
+    "end": 64,
+    "zh": "强化"
+   }
+  ]
+ },
+ {
+  "start": 597.68,
+  "end": 603.92,
+  "text": "do that in coding and beyond. Our third principle is that we close the gap between the frontier and",
+  "notes": [
+   {
+    "start": 11,
+    "end": 17,
+    "zh": "编程"
+   }
+  ]
+ },
+ {
+  "start": 603.92,
+  "end": 609.2,
+  "text": "customers day-to-day. Most people still think about their AI tools as a replacement for",
+  "notes": []
+ },
+ {
+  "start": 609.2,
+  "end": 615.52,
+  "text": "search or a simple Q&A tool. And it can be those things, but that understates the power of what",
+  "notes": [
+   {
+    "start": 66,
+    "end": 77,
+    "zh": "淡化"
+   }
+  ]
+ },
+ {
+  "start": 615.52,
+  "end": 622.32,
+  "text": "people can really do with this intelligence. This is where product becomes a meaningful competitive",
+  "notes": []
+ },
+ {
+  "start": 622.32,
+  "end": 628.0,
+  "text": "differentiator. Without a strong product, the difference between growing intelligence and where",
+  "notes": [
+   {
+    "start": 0,
+    "end": 14,
+    "zh": "区分点"
+   }
+  ]
+ },
+ {
+  "start": 628.0,
+  "end": 634.96,
+  "text": "users are just keeps compounding. We think the future will involve making Claude feel as simple",
+  "notes": []
+ },
+ {
+  "start": 634.96,
+  "end": 640.72,
+  "text": "and natural as possible. So people everywhere can just treat Claude the same way you'd treat",
+  "notes": []
+ },
+ {
+  "start": 640.72,
+  "end": 647.2,
+  "text": "a colleague and get highquality output every time. We think these three principles are how",
+  "notes": [
+   {
+    "start": 20,
+    "end": 31,
+    "zh": "高质量"
+   }
+  ]
+ },
+ {
+  "start": 647.2,
+  "end": 653.52,
+  "text": "we bring Frontier Intelligence to everyone. This is what we mean when we say we want to give people",
+  "notes": []
+ },
+ {
+  "start": 653.52,
+  "end": 660.88,
+  "text": "superpowers. Claude starts by helping you do what you need to better and faster. Then it takes on",
+  "notes": [
+   {
+    "start": 0,
+    "end": 11,
+    "zh": "超能力"
+   }
+  ]
+ },
+ {
+  "start": 660.88,
+  "end": 667.12,
+  "text": "the things you never would have tried because they were just too hard. And in the future, it means",
+  "notes": []
+ },
+ {
+  "start": 667.12,
+  "end": 674.72,
+  "text": "all of us doing what used to be impossible so we can all live better, fuller lives.",
+  "notes": []
+ },
+ {
+  "start": 676.64,
+  "end": 682.88,
+  "text": "When we discovered scaling laws in AI, we realized that AI capabilities could improve very fast.",
+  "notes": []
+ },
+ {
+  "start": 682.88,
+  "end": 688.64,
+  "text": "That's why we founded Anthropic to ensure that if AI became a transformational technology,",
+  "notes": [
+   {
+    "start": 62,
+    "end": 78,
+    "zh": "变革性"
+   }
+  ]
+ },
+ {
+  "start": 688.64,
+  "end": 694.4,
+  "text": "it would be safe and beneficial. Our fundamental bet is that AI would make tremendous progress this",
+  "notes": []
+ },
+ {
+  "start": 694.4,
+  "end": 701.2,
+  "text": "decade. These transformational capabilities are why research and safety must advance together.",
+  "notes": []
+ },
+ {
+  "start": 701.2,
+  "end": 706.16,
+  "text": "It's the only way we'll realize the benefits of the technology. We assess our models across",
+  "notes": []
+ },
+ {
+  "start": 706.16,
+  "end": 712.88,
+  "text": "three dimensions: capability, efficiency, and safety. We optimize our models to be able to",
+  "notes": [
+   {
+    "start": 57,
+    "end": 65,
+    "zh": "优化"
+   }
+  ]
+ },
+ {
+  "start": 712.88,
+  "end": 721.44,
+  "text": "plan and complete complex work accurately across hours and even days. A good example is Opus 5.5.",
+  "notes": []
+ },
+ {
+  "start": 721.44,
+  "end": 726.8,
+  "text": "One of our users was able to complete a 680K line code migration in less than a day. This",
+  "notes": []
+ },
+ {
+  "start": 726.8,
+  "end": 731.44,
+  "text": "would have taken an engineering team weeks just a few years ago. We think our models are the",
+  "notes": []
+ },
+ {
+  "start": 731.44,
+  "end": 737.68,
+  "text": "very best at this long horizon work where accuracy really matters. The capability begins in the model",
+  "notes": []
+ },
+ {
+  "start": 737.68,
+  "end": 743.2,
+  "text": "training process. In the pre-training phase, a model learns from the totality of human knowledge,",
+  "notes": [
+   {
+    "start": 69,
+    "end": 77,
+    "zh": "全部"
+   }
+  ]
+ },
+ {
+  "start": 743.2,
+  "end": 750.4,
+  "text": "text, images, scientific papers, code. This phase is where it comes to understand fundamental",
+  "notes": []
+ },
+ {
+  "start": 750.4,
+  "end": 756.32,
+  "text": "human concepts and ideas. The second phase is reinforcement learning. This is where Claude",
+  "notes": [
+   {
+    "start": 46,
+    "end": 59,
+    "zh": "强化学习"
+   }
+  ]
+ },
+ {
+  "start": 756.32,
+  "end": 762.48,
+  "text": "learns to be helpful, honest, and harmless. It's where we draw out useful capabilities in coding,",
+  "notes": [
+   {
+    "start": 34,
+    "end": 42,
+    "zh": "无害"
+   }
+  ]
+ },
+ {
+  "start": 762.48,
+  "end": 767.44,
+  "text": "knowledge work, and science. As models have moved from conversational assistance to autonomous",
+  "notes": [
+   {
+    "start": 55,
+    "end": 69,
+    "zh": "会话式"
+   },
+   {
+    "start": 84,
+    "end": 94,
+    "zh": "自主的"
+   }
+  ]
+ },
+ {
+  "start": 767.44,
+  "end": 772.88,
+  "text": "agents, reinforcement learning has evolved into one of the largest areas of research investment,",
+  "notes": [
+   {
+    "start": 8,
+    "end": 21,
+    "zh": "强化学习"
+   }
+  ]
+ },
+ {
+  "start": 772.88,
+  "end": 778.88,
+  "text": "one that really matters to our customers. In 2021, I wrote an internal memo outlining how",
+  "notes": [
+   {
+    "start": 71,
+    "end": 75,
+    "zh": "备忘录"
+   },
+   {
+    "start": 76,
+    "end": 85,
+    "zh": "概述"
+   }
+  ]
+ },
+ {
+  "start": 778.88,
+  "end": 784.24,
+  "text": "our most likely product might be an aligned AI programmer. I wrote a lot of other things,",
+  "notes": [
+   {
+    "start": 36,
+    "end": 43,
+    "zh": "对齐（安全）"
+   }
+  ]
+ },
+ {
+  "start": 784.24,
+  "end": 787.6,
+  "text": "too, but this one turned out to be pretty accurate. Claude's training",
+  "notes": []
+ },
+ {
+  "start": 787.6,
+  "end": 792.56,
+  "text": "process is integral to Anthropic's mission. We need to understand how to train frontier",
+  "notes": []
+ },
+ {
+  "start": 792.56,
+  "end": 804.08,
+  "text": "intelligence and how to make it safe and this is how we deliver the benefits of AI.",
+  "notes": []
+ },
+ {
+  "start": 804.08,
+  "end": 809.36,
+  "text": "We think that AI will help us reduce the time to do a clinical trial by 20 to 30%.",
+  "notes": []
+ },
+ {
+  "start": 809.36,
+  "end": 814.32,
+  "text": "If you get a drug to market two or three years sooner, those are either cures or treatments",
+  "notes": []
+ },
+ {
+  "start": 814.32,
+  "end": 819.04,
+  "text": "that patients that actually don't have solutions can have sooner. So, we think it's actually a huge",
+  "notes": []
+ },
+ {
+  "start": 819.04,
+  "end": 825.44,
+  "text": "win for patients and it's also a huge win for BMS. We chose Enthropic for a couple reasons. One is",
+  "notes": []
+ },
+ {
+  "start": 825.44,
+  "end": 830.64,
+  "text": "they had the most mature enterprise capabilities. So, it's one thing to have a chatbot that you can",
+  "notes": [
+   {
+    "start": 79,
+    "end": 86,
+    "zh": "对话机器人"
+   }
+  ]
+ },
+ {
+  "start": 830.64,
+  "end": 834.64,
+  "text": "use. It's a whole different thing to actually put it in an environment where you're giving it",
+  "notes": []
+ },
+ {
+  "start": 834.64,
+  "end": 840.48,
+  "text": "access to some of the company's most confidential information and you're able to do observability,",
+  "notes": [
+   {
+    "start": 84,
+    "end": 97,
+    "zh": "可观测性"
+   }
+  ]
+ },
+ {
+  "start": 840.48,
+  "end": 845.12,
+  "text": "manage the security, manage what the fine-tuned controls of what you give users. So there's like",
+  "notes": []
+ },
+ {
+  "start": 845.12,
+  "end": 850.32,
+  "text": "the enterprise controls that you'd often see that IT organizations really value a lot. We",
+  "notes": []
+ },
+ {
+  "start": 850.32,
+  "end": 857.12,
+  "text": "rolled it out across all 30,000 of our employees. This is the fastest, most well-adopted uh AI tool",
+  "notes": []
+ },
+ {
+  "start": 857.12,
+  "end": 862.4,
+  "text": "in the history of what we've rolled out. So now you can ask a very very complicated question and",
+  "notes": []
+ },
+ {
+  "start": 862.4,
+  "end": 866.88,
+  "text": "it will go through it will figure out which database or databases because it can actually",
+  "notes": []
+ },
+ {
+  "start": 866.88,
+  "end": 871.84,
+  "text": "cross those databases um can be queried and then it will produce a report that actually",
+  "notes": [
+   {
+    "start": 32,
+    "end": 39,
+    "zh": "被查询"
+   }
+  ]
+ },
+ {
+  "start": 871.84,
+  "end": 876.64,
+  "text": "has the context of the epidemiology built right into it. So that takes you from what would have",
+  "notes": [
+   {
+    "start": 23,
+    "end": 35,
+    "zh": "流行病学"
+   }
+  ]
+ },
+ {
+  "start": 876.64,
+  "end": 882.96,
+  "text": "typically taken 1 to two months to get a simple question answered to being able to get it in 4",
+  "notes": []
+ },
+ {
+  "start": 882.96,
+  "end": 889.2,
+  "text": "to 5 minutes. And we're now finally at a stage both with high throughput computation, but also",
+  "notes": [
+   {
+    "start": 62,
+    "end": 72,
+    "zh": "吞吐量"
+   },
+   {
+    "start": 73,
+    "end": 84,
+    "zh": "计算"
+   }
+  ]
+ },
+ {
+  "start": 889.2,
+  "end": 893.68,
+  "text": "large language models where you're able to scale up your computation, your analytics to match the",
+  "notes": [
+   {
+    "start": 75,
+    "end": 84,
+    "zh": "分析"
+   }
+  ]
+ },
+ {
+  "start": 893.68,
+  "end": 901.76,
+  "text": "better scale of biology that can help the way that you inform and and change the standard of care.",
+  "notes": []
+ },
+ {
+  "start": 901.76,
+  "end": 906.0,
+  "text": "Consider all the reasons a frontier AI lab needs to use compute efficiently. We use it",
+  "notes": []
+ },
+ {
+  "start": 906.0,
+  "end": 911.28,
+  "text": "at every stage of the research and model training process. It's how we serve models to customers and",
+  "notes": []
+ },
+ {
+  "start": 911.28,
+  "end": 916.24,
+  "text": "how we use cloud at scale internally. By training what we believe to be the most efficient models,",
+  "notes": []
+ },
+ {
+  "start": 916.24,
+  "end": 920.32,
+  "text": "we can do more of all these things with the same amount of compute. It's also how we drive down",
+  "notes": []
+ },
+ {
+  "start": 920.32,
+  "end": 925.68,
+  "text": "costs both for customers as well as our own underlying costs. We're accelerating these",
+  "notes": []
+ },
+ {
+  "start": 925.68,
+  "end": 931.04,
+  "text": "efficiency gains through our research process. Our pace of discovery is speeding up and a lot",
+  "notes": []
+ },
+ {
+  "start": 931.04,
+  "end": 935.12,
+  "text": "of that acceleration comes from Claude itself. When you deploy Frontier models,",
+  "notes": [
+   {
+    "start": 56,
+    "end": 62,
+    "zh": "部署"
+   }
+  ]
+ },
+ {
+  "start": 935.12,
+  "end": 939.2,
+  "text": "safety is critical. This idea brought the co-founders together and it's been at the",
+  "notes": []
+ },
+ {
+  "start": 939.2,
+  "end": 943.12,
+  "text": "foundation of Enthropic from the beginning. Excellence in safety is how you manage",
+  "notes": []
+ },
+ {
+  "start": 943.12,
+  "end": 947.44,
+  "text": "organizational and systemic risk. It's how you safely enable frontier capabilities in fields",
+  "notes": [
+   {
+    "start": 0,
+    "end": 14,
+    "zh": "组织的"
+   },
+   {
+    "start": 19,
+    "end": 27,
+    "zh": "系统性的"
+   }
+  ]
+ },
+ {
+  "start": 947.44,
+  "end": 952.08,
+  "text": "like coding and medicine. And it's valued by our customers. It gives them the trust they need",
+  "notes": []
+ },
+ {
+  "start": 952.08,
+  "end": 957.2,
+  "text": "to point AI at important work. We build safety in at every stage. Through alignment training,",
+  "notes": []
+ },
+ {
+  "start": 957.2,
+  "end": 961.68,
+  "text": "we train models to follow user intent and avoid taking harmful actions. And we build in the right",
+  "notes": []
+ },
+ {
+  "start": 961.68,
+  "end": 966.32,
+  "text": "safeguards aimed at preventing misuse. We also pioneer fields like interpretability,",
+  "notes": [
+   {
+    "start": 0,
+    "end": 10,
+    "zh": "防护措施"
+   },
+   {
+    "start": 31,
+    "end": 37,
+    "zh": "误用"
+   },
+   {
+    "start": 67,
+    "end": 83,
+    "zh": "可解释性"
+   }
+  ]
+ },
+ {
+  "start": 966.32,
+  "end": 970.56,
+  "text": "which gives us insight into what's happening inside the model's brain. Within Enthropic,",
+  "notes": []
+ },
+ {
+  "start": 970.56,
+  "end": 975.52,
+  "text": "we increasingly turn frontier models back on improving our own processes. We call this closing",
+  "notes": []
+ },
+ {
+  "start": 975.52,
+  "end": 980.32,
+  "text": "the loop, and it drives forward all three of our research priorities. Claude is increasingly our",
+  "notes": []
+ },
+ {
+  "start": 980.32,
+  "end": 985.44,
+  "text": "equal partner here. The better Claude gets, the more it helps us with all of our work. It improves",
+  "notes": []
+ },
+ {
+  "start": 985.44,
+  "end": 990.32,
+  "text": "our security. It makes training and inference more efficient. It drives safety work. It helps",
+  "notes": [
+   {
+    "start": 36,
+    "end": 45,
+    "zh": "推断"
+   }
+  ]
+ },
+ {
+  "start": 990.32,
+  "end": 995.2,
+  "text": "us try out more research ideas more quickly. And it makes the whole organization more effective.",
+  "notes": []
+ },
+ {
+  "start": 995.2,
+  "end": 1000.8,
+  "text": "Our most important work is still ahead. If we keep research and safety advancing together, we",
+  "notes": []
+ },
+ {
+  "start": 1000.8,
+  "end": 1011.28,
+  "text": "believe that we can help bring about some of the most significant breakthroughs in human history.",
+  "notes": [
+   {
+    "start": 66,
+    "end": 79,
+    "zh": "突破"
+   }
+  ]
+ },
+ {
+  "start": 1011.28,
+  "end": 1016.56,
+  "text": "Take a number and double it and double that then double that.",
+  "notes": []
+ },
+ {
+  "start": 1016.56,
+  "end": 1022.24,
+  "text": "That curve is really at the heart of what we do at Anthropic. We noticed",
+  "notes": []
+ },
+ {
+  "start": 1022.24,
+  "end": 1026.8,
+  "text": "early on that performance seemed to scale very smoothly with compute.",
+  "notes": []
+ },
+ {
+  "start": 1030.08,
+  "end": 1036.4,
+  "text": "Our bet was there is a whole internet's worth of context. What if the limiting factor of",
+  "notes": []
+ },
+ {
+  "start": 1036.4,
+  "end": 1046.32,
+  "text": "model size just went away? So in 2022 or 23, we had chat bots. You could ask them for a history",
+  "notes": [
+   {
+    "start": 57,
+    "end": 61,
+    "zh": "聊天机器人"
+   }
+  ]
+ },
+ {
+  "start": 1046.32,
+  "end": 1054.4,
+  "text": "of the samurai and it would come back with a little essay. In 2024, coding becomes possible,",
+  "notes": []
+ },
+ {
+  "start": 1054.4,
+  "end": 1062.48,
+  "text": "but Claude still struggles on hard problems. In 2025, the models start to be able to do surprising",
+  "notes": []
+ },
+ {
+  "start": 1062.48,
+  "end": 1071.44,
+  "text": "things. Coding gets much better. Claude can even play video games quite badly. This same year,",
+  "notes": []
+ },
+ {
+  "start": 1071.44,
+  "end": 1077.68,
+  "text": "it found a flaw in OpenBSD that had gone unnoticed for 27 years.",
+  "notes": [
+   {
+    "start": 11,
+    "end": 15,
+    "zh": "缺陷"
+   },
+   {
+    "start": 41,
+    "end": 50,
+    "zh": "未察觉"
+   }
+  ]
+ },
+ {
+  "start": 1079.36,
+  "end": 1087.44,
+  "text": "Suddenly, it can do multi-step processes, knowledge. It builds a controller for laser",
+  "notes": []
+ },
+ {
+  "start": 1087.44,
+  "end": 1092.48,
+  "text": "locks at a quantum computer company, a task that used to take a team of people",
+  "notes": []
+ },
+ {
+  "start": 1092.48,
+  "end": 1101.2,
+  "text": "with PhDs a week. And it does this without human intervention overnight. We start to",
+  "notes": []
+ },
+ {
+  "start": 1101.2,
+  "end": 1107.12,
+  "text": "see Claude making fundamental discoveries in math, working at the frontier of life science.",
+  "notes": []
+ },
+ {
+  "start": 1108.24,
+  "end": 1114.56,
+  "text": "This acceleration can be disorienting, but there's still this sense that we're just",
+  "notes": []
+ },
+ {
+  "start": 1114.56,
+  "end": 1126.24,
+  "text": "setting out. That exponential curve stretches up ahead of us, and it's only just begun.",
+  "notes": []
+ },
+ {
+  "start": 1126.24,
+  "end": 1130.8,
+  "text": "Achieving Anthropic's mission requires staying at the frontier, and staying at the frontier",
+  "notes": []
+ },
+ {
+  "start": 1130.8,
+  "end": 1135.44,
+  "text": "depends on compute. Our approach here goes back to research that I did with several of my other",
+  "notes": []
+ },
+ {
+  "start": 1135.44,
+  "end": 1140.8,
+  "text": "co-founders on scaling laws. We found that with the right recipe, more compute reliably",
+  "notes": [
+   {
+    "start": 79,
+    "end": 87,
+    "zh": "可靠地"
+   }
+  ]
+ },
+ {
+  "start": 1140.8,
+  "end": 1145.6,
+  "text": "and predictably yields more intelligence. Later, we found that it was possible to improve this",
+  "notes": [
+   {
+    "start": 4,
+    "end": 15,
+    "zh": "可预测地"
+   }
+  ]
+ },
+ {
+  "start": 1145.6,
+  "end": 1150.56,
+  "text": "recipe over time to achieve more intelligence with the same amount of physical compute. So,",
+  "notes": []
+ },
+ {
+  "start": 1150.56,
+  "end": 1156.32,
+  "text": "by the time we started Anthropic in 2021, we knew two things. One, compute is the foundation of the",
+  "notes": []
+ },
+ {
+  "start": 1156.32,
+  "end": 1161.12,
+  "text": "business. and two, getting the most out of every unit of compute is key to making increasingly",
+  "notes": []
+ },
+ {
+  "start": 1161.12,
+  "end": 1166.0,
+  "text": "intelligent models. That's why we're so focused on efficiency and it's why we believe a dollar of",
+  "notes": []
+ },
+ {
+  "start": 1166.0,
+  "end": 1170.72,
+  "text": "compute at Anthropic goes further than a dollar at any other frontier lab. We've achieved that",
+  "notes": []
+ },
+ {
+  "start": 1170.72,
+  "end": 1175.44,
+  "text": "advantage in two ways. I'll start with the first. Our proprietary approach to bringing",
+  "notes": [
+   {
+    "start": 54,
+    "end": 65,
+    "zh": "专有的"
+   }
+  ]
+ },
+ {
+  "start": 1175.44,
+  "end": 1181.6,
+  "text": "up and deploying silicon, we train and serve Claude now across all four major chip families.",
+  "notes": []
+ },
+ {
+  "start": 1181.6,
+  "end": 1187.28,
+  "text": "That's only possible because early on we made an unconventional bet on a multi-chip strategy.",
+  "notes": [
+   {
+    "start": 49,
+    "end": 63,
+    "zh": "非传统的"
+   }
+  ]
+ },
+ {
+  "start": 1187.28,
+  "end": 1191.68,
+  "text": "At the time, many people thought that running AI models on different chips wasn't worth the",
+  "notes": []
+ },
+ {
+  "start": 1191.68,
+  "end": 1197.6,
+  "text": "effort. Each chip needs its own tailored software stack and inference stack, which is expensive and",
+  "notes": [
+   {
+    "start": 32,
+    "end": 40,
+    "zh": "定制的"
+   },
+   {
+    "start": 60,
+    "end": 69,
+    "zh": "推断"
+   }
+  ]
+ },
+ {
+  "start": 1197.6,
+  "end": 1201.92,
+  "text": "difficult to build. We've now been doing it for years and we've gotten incredibly good at",
+  "notes": []
+ },
+ {
+  "start": 1201.92,
+  "end": 1206.56,
+  "text": "it. This comes with two key advantages. In a supply constrained compute market,",
+  "notes": [
+   {
+    "start": 52,
+    "end": 63,
+    "zh": "受限的"
+   }
+  ]
+ },
+ {
+  "start": 1206.56,
+  "end": 1211.28,
+  "text": "our multisilicon strategy allows us to focus on the best price performance regardless of",
+  "notes": [
+   {
+    "start": 4,
+    "end": 16,
+    "zh": "多芯片（策略）"
+   }
+  ]
+ },
+ {
+  "start": 1211.28,
+  "end": 1216.72,
+  "text": "the provider. We can match each chip to the job that it's best at. Some are better at training,",
+  "notes": []
+ },
+ {
+  "start": 1216.72,
+  "end": 1221.84,
+  "text": "some are better at inference. Our multisilicon chip strategy means we can treat all of our chips",
+  "notes": [
+   {
+    "start": 34,
+    "end": 46,
+    "zh": "多芯片（策略）"
+   }
+  ]
+ },
+ {
+  "start": 1221.84,
+  "end": 1228.32,
+  "text": "across providers, architectures, and locations as one fungeible pool of compute. This has also made",
+  "notes": [
+   {
+    "start": 54,
+    "end": 63,
+    "zh": "可互换的"
+   }
+  ]
+ },
+ {
+  "start": 1228.32,
+  "end": 1233.44,
+  "text": "us really good at bringing up new chips. As an example, this year we started working with AMD",
+  "notes": []
+ },
+ {
+  "start": 1233.44,
+  "end": 1238.88,
+  "text": "GPUs for the first time. In the past, bringing on a new chip platform took dozens of engineers",
+  "notes": []
+ },
+ {
+  "start": 1238.88,
+  "end": 1245.36,
+  "text": "months of work. This time we had Mythos try it out. It got Claude running on AMD in just 3 days",
+  "notes": []
+ },
+ {
+  "start": 1245.36,
+  "end": 1251.2,
+  "text": "with basically no human intervention. Claude ported or wrote almost 100% of the kernels. We",
+  "notes": [
+   {
+    "start": 80,
+    "end": 87,
+    "zh": "内核；计算核"
+   }
+  ]
+ },
+ {
+  "start": 1251.2,
+  "end": 1255.84,
+  "text": "also have a distinct approach to the data centers that house our chips. Historically, we bought",
+  "notes": []
+ },
+ {
+  "start": 1255.84,
+  "end": 1260.56,
+  "text": "compute as a cloud service. We've now added a second approach where we lease ships and run",
+  "notes": []
+ },
+ {
+  "start": 1260.56,
+  "end": 1266.08,
+  "text": "them in purpose-built data centers designed for us. We call this anthropic direct. That approach",
+  "notes": []
+ },
+ {
+  "start": 1266.08,
+  "end": 1271.28,
+  "text": "has a couple advantages for us. It helps to lower the total cost of ownership of compute and allows",
+  "notes": []
+ },
+ {
+  "start": 1271.28,
+  "end": 1276.56,
+  "text": "us to separate the commitment to data centers from the chips. The second driver of our compute",
+  "notes": []
+ },
+ {
+  "start": 1276.56,
+  "end": 1282.16,
+  "text": "advantage is our rate of discovery of compute multipliers. We focus on total effective compute",
+  "notes": [
+   {
+    "start": 46,
+    "end": 57,
+    "zh": "倍增因素"
+   }
+  ]
+ },
+ {
+  "start": 1282.16,
+  "end": 1287.04,
+  "text": "which is the multiplicative product of physical capacity times the compute multipliers that we",
+  "notes": [
+   {
+    "start": 13,
+    "end": 27,
+    "zh": "乘法的"
+   }
+  ]
+ },
+ {
+  "start": 1287.04,
+  "end": 1292.96,
+  "text": "discover. Each one we discover makes our pool of total effective compute bigger. For example,",
+  "notes": []
+ },
+ {
+  "start": 1292.96,
+  "end": 1298.48,
+  "text": "say you need 100 units of compute to train a model of a certain intelligence. A 4x compute multiplier",
+  "notes": []
+ },
+ {
+  "start": 1298.48,
+  "end": 1304.0,
+  "text": "means you can use 25 units of compute to train the exact same model or you can use those 100 physical",
+  "notes": []
+ },
+ {
+  "start": 1304.0,
+  "end": 1309.44,
+  "text": "units to train an even more intelligent model that would have previously required 400 units.",
+  "notes": []
+ },
+ {
+  "start": 1309.44,
+  "end": 1313.2,
+  "text": "Compute multipliers create a competitive advantage for us that's hard to replicate.",
+  "notes": [
+   {
+    "start": 73,
+    "end": 82,
+    "zh": "复制"
+   }
+  ]
+ },
+ {
+  "start": 1313.2,
+  "end": 1318.16,
+  "text": "They build on each other. Each new multiplier we discover has a positive effect on the multipliers",
+  "notes": []
+ },
+ {
+  "start": 1318.16,
+  "end": 1323.44,
+  "text": "before it. They stack. We believe that this can accelerate even further as we approach recursive",
+  "notes": [
+   {
+    "start": 87,
+    "end": 96,
+    "zh": "递归的"
+   }
+  ]
+ },
+ {
+  "start": 1323.44,
+  "end": 1327.36,
+  "text": "self-improvement. Claude will be able to discover compute multipliers entirely by",
+  "notes": [
+   {
+    "start": 50,
+    "end": 69,
+    "zh": "算力倍增"
+   }
+  ]
+ },
+ {
+  "start": 1327.36,
+  "end": 1331.92,
+  "text": "itself, allowing the number of compute multipliers to grow faster and faster.",
+  "notes": []
+ },
+ {
+  "start": 1331.92,
+  "end": 1336.0,
+  "text": "We believe this combination of smart investments, breakthrough research, and the improving",
+  "notes": [
+   {
+    "start": 50,
+    "end": 71,
+    "zh": "突破性"
+   }
+  ]
+ },
+ {
+  "start": 1336.0,
+  "end": 1346.08,
+  "text": "capabilities of Claude have put Anthropic in a leading position among the frontier labs.",
+  "notes": []
+ },
+ {
+  "start": 1346.08,
+  "end": 1353.36,
+  "text": "AI is a breakthrough innovation, but only reinvention is going to get the value that",
+  "notes": [
+   {
+    "start": 8,
+    "end": 31,
+    "zh": "突破性"
+   },
+   {
+    "start": 42,
+    "end": 53,
+    "zh": "重新发明"
+   }
+  ]
+ },
+ {
+  "start": 1353.36,
+  "end": 1359.68,
+  "text": "AI promises. At Accenture, our job is to be the bridge between technology and real outcomes for",
+  "notes": []
+ },
+ {
+  "start": 1359.68,
+  "end": 1366.16,
+  "text": "our clients. I love the question about, you know, are we using Claude? Because we have",
+  "notes": []
+ },
+ {
+  "start": 1366.16,
+  "end": 1372.16,
+  "text": "tens of thousands of engineers using it every day. We use it across our entire software development",
+  "notes": []
+ },
+ {
+  "start": 1372.16,
+  "end": 1378.56,
+  "text": "life cycle and it frees up time. It makes us go faster and allows our engineers to spend more time",
+  "notes": []
+ },
+ {
+  "start": 1378.56,
+  "end": 1384.56,
+  "text": "focusing on solving our clients challenges, leading decisionm and setting strategy.",
+  "notes": [
+   {
+    "start": 52,
+    "end": 61,
+    "zh": "决策"
+   }
+  ]
+ },
+ {
+  "start": 1385.12,
+  "end": 1391.28,
+  "text": "We defend thousands of our clients from cyber attacks and we've paired Claude",
+  "notes": []
+ },
+ {
+  "start": 1391.28,
+  "end": 1397.36,
+  "text": "Code and Claude's agent software development kit with Cyber.ai, our cuttingedge platform",
+  "notes": [
+   {
+    "start": 68,
+    "end": 79,
+    "zh": "前沿的"
+   }
+  ]
+ },
+ {
+  "start": 1397.36,
+  "end": 1402.56,
+  "text": "that we use to help protect our clients. Just one result of using this is that we can now",
+  "notes": []
+ },
+ {
+  "start": 1402.56,
+  "end": 1408.16,
+  "text": "do scans that used to take days in under an hour. We are focused on our clients success",
+  "notes": []
+ },
+ {
+  "start": 1408.16,
+  "end": 1420.48,
+  "text": "and safety. And our mindset is that because of our partnership, our clients can get to value faster.",
+  "notes": [
+   {
+    "start": 20,
+    "end": 27,
+    "zh": "思维方式"
+   }
+  ]
+ },
+ {
+  "start": 1420.48,
+  "end": 1425.04,
+  "text": "The early bet we made was that intelligence was the highest value asset that a business could",
+  "notes": []
+ },
+ {
+  "start": 1425.04,
+  "end": 1431.28,
+  "text": "get from AI. We believe frontier intelligence solves the toughest problems and for that reason",
+  "notes": []
+ },
+ {
+  "start": 1431.28,
+  "end": 1437.52,
+  "text": "it drives the biggest impact. AI capability doesn't improve gradually. When models cross",
+  "notes": []
+ },
+ {
+  "start": 1437.52,
+  "end": 1444.64,
+  "text": "a certain threshold, there is a step change and an entire category of work is done differently.",
+  "notes": []
+ },
+ {
+  "start": 1444.64,
+  "end": 1450.24,
+  "text": "Coding is the example we're most familiar with. The speed of the change is remarkable. We went",
+  "notes": []
+ },
+ {
+  "start": 1450.24,
+  "end": 1457.04,
+  "text": "from autocomplete a few lines of code to fleets of agents working around the clock in just a year.",
+  "notes": [
+   {
+    "start": 5,
+    "end": 17,
+    "zh": "自动补全"
+   }
+  ]
+ },
+ {
+  "start": 1457.04,
+  "end": 1462.64,
+  "text": "For a company like Rakuten, this means they're shipping new features four to five times faster",
+  "notes": []
+ },
+ {
+  "start": 1462.64,
+  "end": 1469.44,
+  "text": "than their competitors. After coding came cyber and with Mythos and Project Glass Wing, Claude",
+  "notes": [
+   {
+    "start": 30,
+    "end": 36,
+    "zh": "编程"
+   }
+  ]
+ },
+ {
+  "start": 1469.44,
+  "end": 1475.6,
+  "text": "has helped cyber defenders identify and patch vulnerabilities at a societal scale. Consider a",
+  "notes": [
+   {
+    "start": 46,
+    "end": 61,
+    "zh": "漏洞"
+   }
+  ]
+ },
+ {
+  "start": 1475.6,
+  "end": 1481.52,
+  "text": "company like Misilla. In the past, they used to fix over 20 security bugs per release. And with",
+  "notes": []
+ },
+ {
+  "start": 1481.52,
+  "end": 1489.28,
+  "text": "Mythos preview, they identified and fixed 271. Knowledge work is on a similar curve. Scientific",
+  "notes": []
+ },
+ {
+  "start": 1489.28,
+  "end": 1494.4,
+  "text": "research, investment analysis, underwriting, all great examples of what we're seeing across",
+  "notes": [
+   {
+    "start": 31,
+    "end": 43,
+    "zh": "承保流程"
+   }
+  ]
+ },
+ {
+  "start": 1494.4,
+  "end": 1501.28,
+  "text": "industries. Claude helped an insurer like AIG cut down time to quote by 55%. In each domain,",
+  "notes": [
+   {
+    "start": 29,
+    "end": 36,
+    "zh": "保险公司"
+   }
+  ]
+ },
+ {
+  "start": 1501.28,
+  "end": 1510.08,
+  "text": "we see an improvement, then a step change, and then a whole category of work moves fast.",
+  "notes": []
+ },
+ {
+  "start": 1512.88,
+  "end": 1519.52,
+  "text": "It's hard to imagine the speed with which that Anthropic has become embedded inside",
+  "notes": [
+   {
+    "start": 68,
+    "end": 76,
+    "zh": "嵌入"
+   }
+  ]
+ },
+ {
+  "start": 1519.52,
+  "end": 1525.44,
+  "text": "of AIG. With Claude, it's helped us create better underwriters. We're able to use their",
+  "notes": [
+   {
+    "start": 50,
+    "end": 62,
+    "zh": "核保员"
+   }
+  ]
+ },
+ {
+  "start": 1525.44,
+  "end": 1529.2,
+  "text": "skill set more frequently because we're able to pull the submission information,",
+  "notes": []
+ },
+ {
+  "start": 1529.2,
+  "end": 1534.32,
+  "text": "get it in a format where they can then underwrite. We've seen a significant uptick in the speed with",
+  "notes": [
+   {
+    "start": 39,
+    "end": 49,
+    "zh": "承保"
+   },
+   {
+    "start": 76,
+    "end": 82,
+    "zh": "上升"
+   }
+  ]
+ },
+ {
+  "start": 1534.32,
+  "end": 1539.44,
+  "text": "which they can make decisions and which really means we're able to get to more submissions in",
+  "notes": []
+ },
+ {
+  "start": 1539.44,
+  "end": 1546.16,
+  "text": "a more consistent way and for clients we're able to respond faster. I think Anthropic",
+  "notes": []
+ },
+ {
+  "start": 1546.16,
+  "end": 1550.4,
+  "text": "and Claude together have a very similar value proposition that we try and bring in",
+  "notes": [
+   {
+    "start": 46,
+    "end": 57,
+    "zh": "主张；价值提议"
+   }
+  ]
+ },
+ {
+  "start": 1550.4,
+  "end": 1555.12,
+  "text": "terms of safety and resilience and technical capability and we communicate pretty closely",
+  "notes": [
+   {
+    "start": 20,
+    "end": 30,
+    "zh": "韧性；抗风险性"
+   }
+  ]
+ },
+ {
+  "start": 1555.12,
+  "end": 1561.04,
+  "text": "with the regulators on how we're using AI and how the human element and the human oversight",
+  "notes": [
+   {
+    "start": 9,
+    "end": 19,
+    "zh": "监管机构"
+   },
+   {
+    "start": 82,
+    "end": 91,
+    "zh": "监督"
+   }
+  ]
+ },
+ {
+  "start": 1561.04,
+  "end": 1566.8,
+  "text": "is obviously very important to us and to our regulators and is embedded in the process.",
+  "notes": [
+   {
+    "start": 45,
+    "end": 55,
+    "zh": "监管机构"
+   }
+  ]
+ },
+ {
+  "start": 1568.48,
+  "end": 1574.32,
+  "text": "Everything Anthropic does from research to product to go to market, it all comes",
+  "notes": []
+ },
+ {
+  "start": 1574.32,
+  "end": 1580.56,
+  "text": "together in how we serve the customer. Today we have deep engagements across the Fortune 500",
+  "notes": []
+ },
+ {
+  "start": 1580.56,
+  "end": 1586.88,
+  "text": "and all of the Fortune 10. More than 50% of the Fortune 500 spends more than 100K",
+  "notes": []
+ },
+ {
+  "start": 1586.88,
+  "end": 1593.36,
+  "text": "with us. And that's true for more than 30% of the global 2000. With all of these customers,",
+  "notes": []
+ },
+ {
+  "start": 1593.36,
+  "end": 1599.2,
+  "text": "we believe we are still in the early stages of a multi-deade transformation. On average,",
+  "notes": []
+ },
+ {
+  "start": 1599.2,
+  "end": 1605.04,
+  "text": "spending from these Fortune 500 customers is less than.1% of their total expenses.",
+  "notes": []
+ },
+ {
+  "start": 1605.04,
+  "end": 1610.88,
+  "text": "Even among the top 10, it's still less than 1% of their total expense line. Let's zoom in",
+  "notes": [
+   {
+    "start": 82,
+    "end": 89,
+    "zh": "仔细查看"
+   }
+  ]
+ },
+ {
+  "start": 1610.88,
+  "end": 1616.16,
+  "text": "on the journey of a typical customer. And it starts with a single use case. Often that's",
+  "notes": []
+ },
+ {
+  "start": 1616.16,
+  "end": 1621.44,
+  "text": "clawed code for developers and engineers. And it soon expands to adjacent roles. Knowledge",
+  "notes": []
+ },
+ {
+  "start": 1621.44,
+  "end": 1626.8,
+  "text": "workers start using Claude for their highest value work. Then teams automate more business",
+  "notes": [
+   {
+    "start": 68,
+    "end": 76,
+    "zh": "自动化"
+   }
+  ]
+ },
+ {
+  "start": 1626.8,
+  "end": 1633.36,
+  "text": "processes and build AI into core infrastructure and ultimately they embed Claude into entirely",
+  "notes": [
+   {
+    "start": 68,
+    "end": 73,
+    "zh": "嵌入"
+   }
+  ]
+ },
+ {
+  "start": 1633.36,
+  "end": 1638.56,
+  "text": "new products and services. The process happens quickly and that's why we see an unprecedented",
+  "notes": [
+   {
+    "start": 80,
+    "end": 93,
+    "zh": "史无前例"
+   }
+  ]
+ },
+ {
+  "start": 1638.56,
+  "end": 1645.84,
+  "text": "net revenue retention rate of approximately 900%. What excites me is that the most interesting and",
+  "notes": [
+   {
+    "start": 12,
+    "end": 21,
+    "zh": "留存率"
+   }
+  ]
+ },
+ {
+  "start": 1645.84,
+  "end": 1651.28,
+  "text": "transformative use cases are still ahead of us. Everything we've seen in coding and cyber,",
+  "notes": [
+   {
+    "start": 0,
+    "end": 14,
+    "zh": "变革性的"
+   }
+  ]
+ },
+ {
+  "start": 1651.28,
+  "end": 1657.68,
+  "text": "we're now starting to see across virtually every function, every company, and every industry. And",
+  "notes": []
+ },
+ {
+  "start": 1657.68,
+  "end": 1662.08,
+  "text": "they want to partner with Anthropic because they trust we will help them see the future",
+  "notes": []
+ },
+ {
+  "start": 1662.08,
+  "end": 1670.32,
+  "text": "first. That we will keep them on the frontier and that we will help them transform and win.",
+  "notes": []
+ },
+ {
+  "start": 1673.84,
+  "end": 1678.4,
+  "text": "Something exciting happens when the discoveries unlocked by Claude move",
+  "notes": []
+ },
+ {
+  "start": 1678.4,
+  "end": 1685.84,
+  "text": "into our world or even beyond it. In December 2025, Claude helped plan the",
+  "notes": []
+ },
+ {
+  "start": 1685.84,
+  "end": 1692.96,
+  "text": "Perseverance rover's route on Mars. It wrote the code in the rover's own markup language.",
+  "notes": [
+   {
+    "start": 13,
+    "end": 18,
+    "zh": "火星车/探测车"
+   },
+   {
+    "start": 73,
+    "end": 88,
+    "zh": "标记语言"
+   }
+  ]
+ },
+ {
+  "start": 1692.96,
+  "end": 1702.72,
+  "text": "Engineers checked everything before the commands went out. 400 m driven. Mission accomplished.",
+  "notes": []
+ },
+ {
+  "start": 1702.72,
+  "end": 1707.44,
+  "text": "Claude's ability to process vast amounts of data came to the four again in the summer",
+  "notes": []
+ },
+ {
+  "start": 1707.44,
+  "end": 1717.44,
+  "text": "of 2026. About 950 claude agents spent 21 hours sifting 1.9 billion protein clusters. One spotted",
+  "notes": [
+   {
+    "start": 48,
+    "end": 55,
+    "zh": "筛选"
+   }
+  ]
+ },
+ {
+  "start": 1717.44,
+  "end": 1723.6,
+  "text": "an unusual pattern, a system with a crisper-like repeat array. Our scientists were able to check",
+  "notes": []
+ },
+ {
+  "start": 1723.6,
+  "end": 1734.32,
+  "text": "Claude's findings in the lab. The new array had never been published before. a genuine discovery.",
+  "notes": []
+ },
+ {
+  "start": 1734.32,
+  "end": 1740.56,
+  "text": "The ability to quickly understand new information really matters where resources are thin.",
+  "notes": []
+ },
+ {
+  "start": 1741.76,
+  "end": 1747.6,
+  "text": "In September 2026, teams responding to an Ebola outbreak in eastern Congo were",
+  "notes": []
+ },
+ {
+  "start": 1747.6,
+  "end": 1753.04,
+  "text": "able to process each region's daily reports in under an hour,",
+  "notes": []
+ },
+ {
+  "start": 1753.04,
+  "end": 1760.08,
+  "text": "creating a better picture of the epidemic and freeing up time for patient care. The",
+  "notes": [
+   {
+    "start": 33,
+    "end": 41,
+    "zh": "流行病"
+   }
+  ]
+ },
+ {
+  "start": 1760.08,
+  "end": 1765.12,
+  "text": "power to affect the real world makes safety even more important. It's why",
+  "notes": []
+ },
+ {
+  "start": 1765.12,
+  "end": 1769.92,
+  "text": "Claude's full biology capabilities go only to organizations we've verified.",
+  "notes": []
+ },
+ {
+  "start": 1772.4,
+  "end": 1778.8,
+  "text": "and why Claude has a constitution. It equips it to make judgment calls in situations it",
+  "notes": [
+   {
+    "start": 51,
+    "end": 70,
+    "zh": "做决定"
+   }
+  ]
+ },
+ {
+  "start": 1778.8,
+  "end": 1786.08,
+  "text": "has never encountered before. And it's why we put so much energy into interpretability and",
+  "notes": [
+   {
+    "start": 70,
+    "end": 86,
+    "zh": "可解释性"
+   }
+  ]
+ },
+ {
+  "start": 1786.08,
+  "end": 1793.6,
+  "text": "alignment to keep Claude accountable in situations where people will rely on it. Again and again,",
+  "notes": [
+   {
+    "start": 25,
+    "end": 36,
+    "zh": "负责任"
+   }
+  ]
+ },
+ {
+  "start": 1793.6,
+  "end": 1799.28,
+  "text": "we're finding safety doesn't hold us back. In fact, it's because we can trust Claude's work",
+  "notes": []
+ },
+ {
+  "start": 1799.28,
+  "end": 1811.12,
+  "text": "that we can take its discoveries and apply them in the real world in ways that will benefit everyone.",
+  "notes": []
+ },
+ {
+  "start": 1811.12,
+  "end": 1816.16,
+  "text": "We believe the transformation of the global economy through AI is the greatest economic",
+  "notes": []
+ },
+ {
+  "start": 1816.16,
+  "end": 1820.08,
+  "text": "opportunity in history and Anthropic is uniquely positioned to capture it.",
+  "notes": []
+ },
+ {
+  "start": 1820.08,
+  "end": 1824.88,
+  "text": "We have leadership at the frontier of AI where we expect value will differentially acrew and the",
+  "notes": [
+   {
+    "start": 83,
+    "end": 88,
+    "zh": "累积"
+   }
+  ]
+ },
+ {
+  "start": 1824.88,
+  "end": 1829.92,
+  "text": "strength of our business model allows us to keep investing to advance the frontier while delivering",
+  "notes": []
+ },
+ {
+  "start": 1829.92,
+  "end": 1834.32,
+  "text": "more value to customers and superior returns for our shareholders. The clearest evidence",
+  "notes": []
+ },
+ {
+  "start": 1834.32,
+  "end": 1840.24,
+  "text": "of that is our financial results. In Q3, we earned nearly 17 billion dollars of revenue,",
+  "notes": []
+ },
+ {
+  "start": 1840.24,
+  "end": 1845.84,
+  "text": "up 12 times year-over-year. And year-to- date, we've delivered a compute margin of 43%,",
+  "notes": [
+   {
+    "start": 65,
+    "end": 79,
+    "zh": "计算利润率"
+   }
+  ]
+ },
+ {
+  "start": 1845.84,
+  "end": 1853.28,
+  "text": "gross margin of 85%, adjusted operating margin of 12% and positive free cash flow. These results",
+  "notes": []
+ },
+ {
+  "start": 1853.28,
+  "end": 1858.4,
+  "text": "come from our frontier leadership and they give us the capacity to invest heavily to extend it. So,",
+  "notes": [
+   {
+    "start": 14,
+    "end": 33,
+    "zh": "前沿领先"
+   }
+  ]
+ },
+ {
+  "start": 1858.4,
+  "end": 1863.6,
+  "text": "while our profitability is strong, we are in an aggressive investment mode as we focus on",
+  "notes": [
+   {
+    "start": 10,
+    "end": 23,
+    "zh": "盈利能力"
+   }
+  ]
+ },
+ {
+  "start": 1863.6,
+  "end": 1868.24,
+  "text": "building this business for the long term. There are five elements that differentiate Anthropics",
+  "notes": [
+   {
+    "start": 71,
+    "end": 84,
+    "zh": "区分"
+   }
+  ]
+ },
+ {
+  "start": 1868.24,
+  "end": 1873.52,
+  "text": "business model. First, we build models that deliver the most useful intelligence. As we've",
+  "notes": []
+ },
+ {
+  "start": 1873.52,
+  "end": 1877.92,
+  "text": "pushed the frontier, our customers have found more valuable work for Claude and our revenue",
+  "notes": []
+ },
+ {
+  "start": 1877.92,
+  "end": 1883.76,
+  "text": "growth has followed. We call this modelled growth. The trajectory of our business demonstrates this.",
+  "notes": [
+   {
+    "start": 34,
+    "end": 49,
+    "zh": "模型驱动增长"
+   },
+   {
+    "start": 55,
+    "end": 65,
+    "zh": "发展轨迹"
+   }
+  ]
+ },
+ {
+  "start": 1883.76,
+  "end": 1892.64,
+  "text": "Quarterly revenue grew from $376 million in Q1 of 2025 to nearly $17 billion in Q3 of 2026.",
+  "notes": []
+ },
+ {
+  "start": 1892.64,
+  "end": 1897.92,
+  "text": "This tracked a significant increase in the capabilities of our models in coding, agentic",
+  "notes": [
+   {
+    "start": 81,
+    "end": 88,
+    "zh": "能自主行动的"
+   }
+  ]
+ },
+ {
+  "start": 1897.92,
+  "end": 1904.32,
+  "text": "workflows and real world tasks. Being at the frontier unlocks new use cases and capabilities.",
+  "notes": [
+   {
+    "start": 0,
+    "end": 9,
+    "zh": "工作流程"
+   }
+  ]
+ },
+ {
+  "start": 1904.32,
+  "end": 1910.08,
+  "text": "It also moves us towards paro dominance across most customer workloads, enabling us to deliver",
+  "notes": [
+   {
+    "start": 30,
+    "end": 39,
+    "zh": "主导地位"
+   },
+   {
+    "start": 61,
+    "end": 70,
+    "zh": "工作负载"
+   }
+  ]
+ },
+ {
+  "start": 1910.08,
+  "end": 1916.08,
+  "text": "the most capable models at a given cost. That is because smarter models are more efficient. They",
+  "notes": []
+ },
+ {
+  "start": 1916.08,
+  "end": 1922.4,
+  "text": "can complete tasks at lower effort levels which use fewer tokens. We also cascade the frontier",
+  "notes": [
+   {
+    "start": 58,
+    "end": 64,
+    "zh": "计费单位"
+   },
+   {
+    "start": 74,
+    "end": 81,
+    "zh": "传递"
+   }
+  ]
+ },
+ {
+  "start": 1922.4,
+  "end": 1928.0,
+  "text": "intelligence from our larger models into our smaller models. So we address the full range of",
+  "notes": []
+ },
+ {
+  "start": 1928.0,
+  "end": 1935.36,
+  "text": "cost, capability, and speed. Each generation has pushed that further. Our recent Claude 55 family",
+  "notes": []
+ },
+ {
+  "start": 1935.36,
+  "end": 1940.88,
+  "text": "of models are a significant step up in capability from the Claude 5 family we released just a few",
+  "notes": []
+ },
+ {
+  "start": 1940.88,
+  "end": 1946.64,
+  "text": "months prior. They're also significantly cheaper on a cost per task basis. That is the power of",
+  "notes": []
+ },
+ {
+  "start": 1946.64,
+  "end": 1951.92,
+  "text": "building at the frontier. We believe we deliver the highest value intelligence at the lowest cost,",
+  "notes": []
+ },
+ {
+  "start": 1951.92,
+  "end": 1957.04,
+  "text": "which means we can serve the entire market efficiently. While we lead across most benchmarks,",
+  "notes": [
+   {
+    "start": 82,
+    "end": 92,
+    "zh": "基准测试"
+   }
+  ]
+ },
+ {
+  "start": 1957.04,
+  "end": 1963.76,
+  "text": "the true measure of our success is our customers. And that leads me to our second differentiator.",
+  "notes": [
+   {
+    "start": 82,
+    "end": 96,
+    "zh": "区分点"
+   }
+  ]
+ },
+ {
+  "start": 1963.76,
+  "end": 1969.84,
+  "text": "We build the leading platform and products to make Frontier Intelligence accessible to our customers.",
+  "notes": []
+ },
+ {
+  "start": 1969.84,
+  "end": 1974.8,
+  "text": "Our platform solutions are the foundation of our business and there is significant",
+  "notes": []
+ },
+ {
+  "start": 1974.8,
+  "end": 1981.6,
+  "text": "opportunity for customers to build products and reimagine processes on top of our APIs and SDK.",
+  "notes": [
+   {
+    "start": 48,
+    "end": 57,
+    "zh": "重新设计"
+   },
+   {
+    "start": 82,
+    "end": 86,
+    "zh": "应用编程接口"
+   }
+  ]
+ },
+ {
+  "start": 1981.6,
+  "end": 1987.36,
+  "text": "At the same time, our own products have become a key driver of diffusion. For example, cloud",
+  "notes": [
+   {
+    "start": 63,
+    "end": 72,
+    "zh": "推广"
+   }
+  ]
+ },
+ {
+  "start": 1987.36,
+  "end": 1992.8,
+  "text": "code was fundamentally a bet on the exponential in model progress. Getting it into the hands of our",
+  "notes": []
+ },
+ {
+  "start": 1992.8,
+  "end": 1998.24,
+  "text": "customers put us in a position to capitalize on agentic coding capabilities as they dramatically",
+  "notes": [
+   {
+    "start": 34,
+    "end": 47,
+    "zh": "利用"
+   }
+  ]
+ },
+ {
+  "start": 1998.24,
+  "end": 2003.84,
+  "text": "improved. We followed that same playbook with cloud co-work and its adoption has exceeded that",
+  "notes": [
+   {
+    "start": 32,
+    "end": 40,
+    "zh": "做法/策略"
+   }
+  ]
+ },
+ {
+  "start": 2003.84,
+  "end": 2009.36,
+  "text": "of cloud code at the equivalent point following its own research preview last year. Together our",
+  "notes": []
+ },
+ {
+  "start": 2009.36,
+  "end": 2015.44,
+  "text": "products and platform enable us to serve the needs of our customers. Today the majority of enterprise",
+  "notes": []
+ },
+ {
+  "start": 2015.44,
+  "end": 2021.2,
+  "text": "customers use both our platform and at least one of our products up from 30% in the fourth quarter",
+  "notes": []
+ },
+ {
+  "start": 2021.2,
+  "end": 2027.2,
+  "text": "of 2025. Our product velocity is also accelerating as we expand our internal use of cloud.",
+  "notes": [
+   {
+    "start": 21,
+    "end": 29,
+    "zh": "推进速度"
+   }
+  ]
+ },
+ {
+  "start": 2027.2,
+  "end": 2034.16,
+  "text": "The average daily volume of code contributed per engineer is up 45x relative to the 2024 average.",
+  "notes": []
+ },
+ {
+  "start": 2034.16,
+  "end": 2040.56,
+  "text": "And that's showing up in our launches. In the first 9 months of 2026, we ship 250 models,",
+  "notes": []
+ },
+ {
+  "start": 2040.56,
+  "end": 2045.6,
+  "text": "products, and features. And Claude isn't just accelerating our engineering teams. Across the",
+  "notes": []
+ },
+ {
+  "start": 2045.6,
+  "end": 2052.08,
+  "text": "company, our employees use of Claude grew more than 250 times between January and September of",
+  "notes": []
+ },
+ {
+  "start": 2052.08,
+  "end": 2059.68,
+  "text": "2026. Together, these help explain why our revenue per employee has grown more than 4.5x from $1.4",
+  "notes": []
+ },
+ {
+  "start": 2059.68,
+  "end": 2067.84,
+  "text": "million in Q3 of 2025 to over $6.6 million as of Q3 2026. Anthropic's third differentiator is",
+  "notes": []
+ },
+ {
+  "start": 2067.84,
+  "end": 2073.44,
+  "text": "that we're extremely efficient users of compute. We treat our compute as one fungeible pool that",
+  "notes": [
+   {
+    "start": 77,
+    "end": 86,
+    "zh": "可互换的"
+   }
+  ]
+ },
+ {
+  "start": 2073.44,
+  "end": 2078.96,
+  "text": "serves customers, trains our models, and powers our own use of cloud. We are focused on getting",
+  "notes": []
+ },
+ {
+  "start": 2078.96,
+  "end": 2085.6,
+  "text": "the most out of every unit of compute. This gives us a cost to serve and a reinvestment advantage.",
+  "notes": [
+   {
+    "start": 75,
+    "end": 87,
+    "zh": "再投资"
+   }
+  ]
+ },
+ {
+  "start": 2085.6,
+  "end": 2092.08,
+  "text": "As Tom described, there are two drivers of this efficiency. The first is our multi-ilicon strategy",
+  "notes": [
+   {
+    "start": 83,
+    "end": 89,
+    "zh": "芯片"
+   }
+  ]
+ },
+ {
+  "start": 2092.08,
+  "end": 2096.96,
+  "text": "which lets us buy the most price performant chips and run them as a single fungeable pool.",
+  "notes": [
+   {
+    "start": 75,
+    "end": 84,
+    "zh": "可互换"
+   }
+  ]
+ },
+ {
+  "start": 2096.96,
+  "end": 2102.48,
+  "text": "The second is compounding compute multipliers which have scaled our total effective compute",
+  "notes": []
+ },
+ {
+  "start": 2102.48,
+  "end": 2108.48,
+  "text": "significantly faster than our physical capacity. You can see this in our financial results. Over",
+  "notes": []
+ },
+ {
+  "start": 2108.48,
+  "end": 2113.76,
+  "text": "the last six quarters, we grew revenue by more than 45x, while comput and infrastructure costs",
+  "notes": [
+   {
+    "start": 63,
+    "end": 69,
+    "zh": "计算"
+   }
+  ]
+ },
+ {
+  "start": 2113.76,
+  "end": 2120.24,
+  "text": "grew only 10x, a more than 4x improvement in revenue per dollar of compute. And year-to- date,",
+  "notes": []
+ },
+ {
+  "start": 2120.24,
+  "end": 2127.44,
+  "text": "our gross margin has improved to over 85%. Up from 29% in the same period of 2025. We think",
+  "notes": []
+ },
+ {
+  "start": 2127.44,
+  "end": 2133.28,
+  "text": "of these efficiency gains as capital that we get to allocate. In some cases, we pass them along",
+  "notes": []
+ },
+ {
+  "start": 2133.28,
+  "end": 2138.72,
+  "text": "to customers by lowering prices, which drives diffusion of claude across those customers. In",
+  "notes": [
+   {
+    "start": 46,
+    "end": 55,
+    "zh": "推广"
+   }
+  ]
+ },
+ {
+  "start": 2138.72,
+  "end": 2144.32,
+  "text": "other cases, we retain the margin and reinvest it in additional compute, which is what makes this",
+  "notes": [
+   {
+    "start": 38,
+    "end": 46,
+    "zh": "再投资"
+   }
+  ]
+ },
+ {
+  "start": 2144.32,
+  "end": 2150.64,
+  "text": "advantage compound. The next differentiator is our relentless focus on building for enterprises. We",
+  "notes": [
+   {
+    "start": 51,
+    "end": 61,
+    "zh": "不懈的"
+   }
+  ]
+ },
+ {
+  "start": 2150.64,
+  "end": 2155.36,
+  "text": "had the early insight that enterprises would be the largest and best customers for AI.",
+  "notes": []
+ },
+ {
+  "start": 2155.36,
+  "end": 2161.28,
+  "text": "We have focused on serving that market since our commercial launch in the first quarter of 2023 and",
+  "notes": []
+ },
+ {
+  "start": 2161.28,
+  "end": 2169.12,
+  "text": "have seen rapid adoption since. As of Q3 2026, we had more than 11,900 enterprise customers,",
+  "notes": []
+ },
+ {
+  "start": 2169.12,
+  "end": 2173.92,
+  "text": "up nearly 8x from the start of the year. As the first Frontier Lab available on all three",
+  "notes": []
+ },
+ {
+  "start": 2173.92,
+  "end": 2179.36,
+  "text": "major clouds, we allow enterprises to deploy Cloud within the environments they already operate in,",
+  "notes": []
+ },
+ {
+  "start": 2179.36,
+  "end": 2184.16,
+  "text": "and we maintain the direct relationship with the end customer, including control over pricing.",
+  "notes": []
+ },
+ {
+  "start": 2184.16,
+  "end": 2188.4,
+  "text": "We believe these partnerships enable us to be far more efficient in our gotom market efforts",
+  "notes": [
+   {
+    "start": 72,
+    "end": 77,
+    "zh": "市场策略"
+   }
+  ]
+ },
+ {
+  "start": 2188.4,
+  "end": 2193.52,
+  "text": "than the rest of the industry. In fact, our entire non-compete expense base, including sales",
+  "notes": []
+ },
+ {
+  "start": 2193.52,
+  "end": 2198.96,
+  "text": "and marketing, personnel, and other operating expenses, represents a lower percentage of revenue",
+  "notes": []
+ },
+ {
+  "start": 2198.96,
+  "end": 2204.4,
+  "text": "than the median enterprise software company spends on sales and marketing alone. We expect to invest",
+  "notes": []
+ },
+ {
+  "start": 2204.4,
+  "end": 2208.56,
+  "text": "meaningfully in go to market to support our growth while remaining highly efficient in",
+  "notes": [
+   {
+    "start": 0,
+    "end": 12,
+    "zh": "显著地"
+   }
+  ]
+ },
+ {
+  "start": 2208.56,
+  "end": 2213.44,
+  "text": "how we sell to and grow with our customers. Our final differentiator is our expanding market",
+  "notes": []
+ },
+ {
+  "start": 2213.44,
+  "end": 2221.2,
+  "text": "opportunity. We believe every company across every industry will be transformed by powerful AI. It",
+  "notes": []
+ },
+ {
+  "start": 2221.2,
+  "end": 2226.72,
+  "text": "started with coding and is spreading to knowledge work, a $40 trillion market that we've just begun",
+  "notes": []
+ },
+ {
+  "start": 2226.72,
+  "end": 2232.72,
+  "text": "to penetrate. We count many of the world's largest and most complex businesses as our customers,",
+  "notes": [
+   {
+    "start": 3,
+    "end": 12,
+    "zh": "渗透"
+   }
+  ]
+ },
+ {
+  "start": 2232.72,
+  "end": 2239.2,
+  "text": "including over 50% of the Fortune 500 and over 30% of the global 2000. And as Paul described,",
+  "notes": []
+ },
+ {
+  "start": 2239.2,
+  "end": 2246.4,
+  "text": "our Fortune 500 customers spend less than.1% of their total expenses on claude. As the frontier",
+  "notes": []
+ },
+ {
+  "start": 2246.4,
+  "end": 2252.16,
+  "text": "of AI advances, we expect it will open up entirely new lines of business. This has started already",
+  "notes": []
+ },
+ {
+  "start": 2252.16,
+  "end": 2258.0,
+  "text": "with cyber security and we expect it will extend to life sciences and robotics in the coming years.",
+  "notes": [
+   {
+    "start": 70,
+    "end": 78,
+    "zh": "机器人学"
+   }
+  ]
+ },
+ {
+  "start": 2258.0,
+  "end": 2263.6,
+  "text": "Given the size of the opportunity we see and the strength of our business, we're investing",
+  "notes": []
+ },
+ {
+  "start": 2263.6,
+  "end": 2271.2,
+  "text": "aggressively in three areas. compute, customer value and safety and alignment. Compute is a",
+  "notes": [
+   {
+    "start": 0,
+    "end": 12,
+    "zh": "大力地"
+   },
+   {
+    "start": 68,
+    "end": 77,
+    "zh": "对齐"
+   }
+  ]
+ },
+ {
+  "start": 2271.2,
+  "end": 2276.88,
+  "text": "critical enabler of our growth. It powers our R&D and enables us to meet expanding customer",
+  "notes": [
+   {
+    "start": 9,
+    "end": 16,
+    "zh": "推动力"
+   }
+  ]
+ },
+ {
+  "start": 2276.88,
+  "end": 2282.16,
+  "text": "demand. We plan to make significant investments in compute over the coming years given the compelling",
+  "notes": []
+ },
+ {
+  "start": 2282.16,
+  "end": 2288.08,
+  "text": "returns we see. That includes both short-term and multi-year cloud deals as well as data centers and",
+  "notes": []
+ },
+ {
+  "start": 2288.08,
+  "end": 2293.44,
+  "text": "chips we lease directly. We call this last piece anthropic direct and we expect it will make up a",
+  "notes": []
+ },
+ {
+  "start": 2293.44,
+  "end": 2298.48,
+  "text": "growing share of our compute base over the coming years. Our second investment area is customer",
+  "notes": []
+ },
+ {
+  "start": 2298.48,
+  "end": 2304.56,
+  "text": "value. We are maniacally focused on ensuring customers get the strongest return from their",
+  "notes": [
+   {
+    "start": 14,
+    "end": 24,
+    "zh": "极度专注地"
+   }
+  ]
+ },
+ {
+  "start": 2304.56,
+  "end": 2310.88,
+  "text": "spend on claude. We do this through developing the most capable, aligned and useful models and",
+  "notes": [
+   {
+    "start": 65,
+    "end": 72,
+    "zh": "对齐（安全）"
+   }
+  ]
+ },
+ {
+  "start": 2310.88,
+  "end": 2316.0,
+  "text": "through reducing customer costs as we make our models more efficient. For example, our Opus",
+  "notes": []
+ },
+ {
+  "start": 2316.0,
+  "end": 2322.56,
+  "text": "55 model in September delivered substantial gains in model capability and 40% lower customer costs.",
+  "notes": []
+ },
+ {
+  "start": 2322.56,
+  "end": 2328.56,
+  "text": "This reduction was margin neutral to us because Opus 55 is significantly cheaper to serve. While",
+  "notes": []
+ },
+ {
+  "start": 2328.56,
+  "end": 2333.92,
+  "text": "we sacrifice some near-term revenue when we reduce customer costs, in our experience, we quickly",
+  "notes": []
+ },
+ {
+  "start": 2333.92,
+  "end": 2339.04,
+  "text": "see a tailwind of revenue as the lower cost of intelligence drives greater usage and diffusion",
+  "notes": [
+   {
+    "start": 6,
+    "end": 14,
+    "zh": "助力"
+   }
+  ]
+ },
+ {
+  "start": 2339.04,
+  "end": 2346.0,
+  "text": "of cloud. The third area is safety and alignment. Safety is core to how we operate at Anthropic and",
+  "notes": []
+ },
+ {
+  "start": 2346.0,
+  "end": 2350.48,
+  "text": "we've been investing here since the inception of the company. As model capabilities advance",
+  "notes": [
+   {
+    "start": 36,
+    "end": 45,
+    "zh": "成立"
+   }
+  ]
+ },
+ {
+  "start": 2350.48,
+  "end": 2356.4,
+  "text": "rapidly, we're investing even more in people, processes, and compute to support our safety",
+  "notes": []
+ },
+ {
+  "start": 2356.4,
+  "end": 2362.64,
+  "text": "and alignment work. Taken together, we expect our focus on safety to remain a commercial advantage",
+  "notes": []
+ },
+ {
+  "start": 2362.64,
+  "end": 2367.28,
+  "text": "because customers and developers want models and products they can trust. The investments we're",
+  "notes": []
+ },
+ {
+  "start": 2367.28,
+  "end": 2372.56,
+  "text": "making in compute, customer value, and safety and alignment will strengthen our business and broaden",
+  "notes": []
+ },
+ {
+  "start": 2372.56,
+  "end": 2378.16,
+  "text": "our opportunity. Over the long term, we believe Anthropic can deliver adjusted operating margins",
+  "notes": []
+ },
+ {
+  "start": 2378.16,
+  "end": 2384.96,
+  "text": "of more than 35%. With continued efficiency gains, a greater share of anthropic direct capacity, and",
+  "notes": []
+ },
+ {
+  "start": 2384.96,
+  "end": 2389.44,
+  "text": "more of our compute shifting towards inference, we see a path for compute and infrastructure",
+  "notes": []
+ },
+ {
+  "start": 2389.44,
+  "end": 2396.24,
+  "text": "expenses to trend towards approximately 45 to 50% of revenue. Second, we expect sales, marketing,",
+  "notes": []
+ },
+ {
+  "start": 2396.24,
+  "end": 2401.12,
+  "text": "and partnership costs to trend towards 7 to 10% of revenue as partner fees become a",
+  "notes": []
+ },
+ {
+  "start": 2401.12,
+  "end": 2407.12,
+  "text": "smaller share of revenue as we scale. And third, we expect personnel and other operating expenses",
+  "notes": []
+ },
+ {
+  "start": 2407.12,
+  "end": 2413.12,
+  "text": "combined to trend towards 7 to 10% of revenue as Claude makes our teams more productive and we",
+  "notes": []
+ },
+ {
+  "start": 2413.12,
+  "end": 2418.64,
+  "text": "grow headcount efficiently. We believe we have the best financial model, leading compute efficiency,",
+  "notes": [
+   {
+    "start": 5,
+    "end": 14,
+    "zh": "员工数"
+   }
+  ]
+ },
+ {
+  "start": 2418.64,
+  "end": 2423.12,
+  "text": "the greatest concentration of talent, and a culture that keeps us focused on where we can add",
+  "notes": []
+ },
+ {
+  "start": 2423.12,
+  "end": 2429.44,
+  "text": "the most value to enterprises. AI's transformation of the global economy has the potential to be the",
+  "notes": []
+ },
+ {
+  "start": 2429.44,
+  "end": 2435.52,
+  "text": "largest economic opportunity in history, and we are at the foothills of it today.",
+  "notes": [
+   {
+    "start": 59,
+    "end": 68,
+    "zh": "初期/开端"
+   }
+  ]
+ },
+ {
+  "start": 2437.68,
+  "end": 2446.56,
+  "text": "You know, if today we look at things like cancer, Alzheimer's, heart disease, mental illness, these",
+  "notes": []
+ },
+ {
+  "start": 2446.56,
+  "end": 2454.32,
+  "text": "will be relics of the past in I think less than a decade. And I believe that the company which gets",
+  "notes": [
+   {
+    "start": 8,
+    "end": 14,
+    "zh": "过时事物"
+   }
+  ]
+ },
+ {
+  "start": 2454.32,
+  "end": 2461.36,
+  "text": "the risk right will also be the company that has the license to operate that society trusts and",
+  "notes": []
+ },
+ {
+  "start": 2461.36,
+  "end": 2467.04,
+  "text": "society believes can build the benefits in the right way. I think if we do this right,",
+  "notes": []
+ },
+ {
+  "start": 2467.04,
+  "end": 2476.24,
+  "text": "we can create an age of miracles where humanity is able to solve problems that that have eluded us",
+  "notes": [
+   {
+    "start": 89,
+    "end": 95,
+    "zh": "未被解决"
+   }
+  ]
+ },
+ {
+  "start": 2476.24,
+  "end": 2483.28,
+  "text": "for millennia. We have to make sure that all the risks, all the ways that things can go wrong with",
+  "notes": []
+ },
+ {
+  "start": 2483.28,
+  "end": 2490.16,
+  "text": "this technology, we very carefully address those risks as we bring the benefits and as we have a",
+  "notes": []
+ },
+ {
+  "start": 2490.16,
+  "end": 2495.52,
+  "text": "viable business at the same time. And I invite you to join us on the next phase of this journey.",
+  "notes": []
+ }
+]

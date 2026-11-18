@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Adaptive Subs Player</title>
+<style>
+  :root {
+    --bg: #0f1115; --panel: #181b22; --text: #f2f2f2; --muted: #8a909c;
+    --gloss: #ffd166; --hl: #ffd16622; --line: #2a2f3a;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+         font-family: system-ui, -apple-system, "Segoe UI", "Microsoft YaHei", sans-serif; }
+  main { max-width: 1100px; margin: 0 auto; padding: 16px; }
+  .bar { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin-bottom: 12px;
+         font-size: 14px; color: var(--muted); }
+  select, button { background: var(--panel); color: var(--text); border: 1px solid var(--line);
+                   border-radius: 6px; padding: 6px 10px; font-size: 14px; cursor: pointer; }
+  button.on { border-color: var(--gloss); color: var(--gloss); }
+  .video { position: relative; width: 100%; aspect-ratio: 16 / 9; background: #000;
+           border-radius: 8px; overflow: hidden; }
+  .video iframe, #yt { position: absolute; inset: 0; width: 100%; height: 100%; }
+  #subs { min-height: 130px; margin-top: 12px; padding: 18px 20px; background: var(--panel);
+          border-radius: 8px; font-size: 26px; line-height: 2.1; text-align: center; }
+  /* stacked gloss: small Chinese centred above the word (native <ruby> stretches it in Chrome) */
+  #subs .r { position: relative; display: inline-block; }
+  #subs .r .rt { position: absolute; left: 50%; bottom: 88%; transform: translateX(-50%);
+                 font-size: 0.58em; line-height: 1; color: var(--gloss); white-space: nowrap; }
+  #subs .w { color: var(--text); background: var(--hl); border-radius: 4px; padding: 0 2px; }
+  #subs .p { color: var(--gloss); font-size: 0.75em; }
+  #subs.mode-plain .w { background: none; }
+  .stats { font-size: 13px; color: var(--muted); margin-top: 8px; text-align: right; }
+  @media (max-width: 600px) { #subs { font-size: 19px; } }
+</style>
+</head>
+<body>
+<main>
+  <div class="bar">
+    <label>字幕 <select id="file"></select></label>
+    <span>显示：</span>
+    <button data-mode="ruby" class="on">上方小字</button>
+    <button data-mode="paren">括号</button>
+    <button data-mode="plain">纯英文</button>
+  </div>
+  <div class="video"><div id="yt"></div></div>
+  <div id="subs" class="mode-ruby"></div>
+  <div class="stats" id="stats"></div>
+</main>
+
+<script>
+const params = new URLSearchParams(location.search);
+const VIDEO_ID = params.get("v") || "sQCZJixZ2Zs";
+let cues = [], mode = "ruby", player = null, lastIdx = -2;
+
+const $subs = document.getElementById("subs");
+const $file = document.getElementById("file");
+const $stats = document.getElementById("stats");
+
+function esc(s) {
+  return s.replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+}
+
+function render(cue) {
+  if (!cue) return "";
+  const t = cue.text;
+  if (mode === "plain") return esc(t);
+  let html = "", pos = 0;
+  for (const n of cue.notes) {
+    html += esc(t.slice(pos, n.start));
+    const word = esc(t.slice(n.start, n.end)), zh = esc(n.zh);
+    html += mode === "ruby"
+      ? `<span class="r"><span class="w">${word}</span><span class="rt">${zh}</span></span>`
+      : `<span class="w">${word}</span><span class="p">(${zh})</span>`;
+    pos = n.end;
+  }
+  return html + esc(t.slice(pos));
+}
+
+function cueAt(time) {
+  let lo = 0, hi = cues.length - 1, ans = -1;
+  while (lo <= hi) {
+    const mid = (lo + hi) >> 1;
+    if (cues[mid].start <= time) { ans = mid; lo = mid + 1; } else hi = mid - 1;
+  }
+  return ans >= 0 && time < cues[ans].end ? ans : -1;
+}
+
+function tick() {
+  if (player && player.getCurrentTime) {
+    const i = cueAt(player.getCurrentTime());
+    if (i !== lastIdx) { $subs.innerHTML = render(cues[i]); lastIdx = i; }
+  }
+}
+
+async function loadSubs(path) {
+  cues = await (await fetch(path)).json();
+  const n = cues.reduce((a, c) => a + c.notes.length, 0);
+  $stats.textContent = `${cues.length} 句 · ${n} 个注释 · 平均每句 ${(n / cues.length).toFixed(2)} 个`;
+  lastIdx = -2;
+  if (!player) $subs.innerHTML = render(cues.find(c => c.notes.length));
+}
+
+async function listFiles() {
+  // Static hosting (GitHub Pages): data/index.json lists the files.
+  // Local `python -m http.server`: fall back to scraping its directory listing.
+  let files = [];
+  try {
+    const r = await fetch("data/index.json");
+    if (r.ok) files = await r.json();
+  } catch (e) {}
+  if (!files.length) {
+    const html = await (await fetch("data/")).text();
+    files = [...html.matchAll(/href="([^"]+\.json)"/g)].map(m => decodeURIComponent(m[1]));
+  }
+  files = files.filter(f => f.startsWith(VIDEO_ID))
+    .sort((a, b) => (b.includes("annotated") - a.includes("annotated")) || a.localeCompare(b));
+  const label = f => {
+    const m = f.match(/annotated\.v(\d+)/);
+    return m ? `词汇量 ${m[1]}` : f.replace(VIDEO_ID + ".", "");
+  };
+  $file.innerHTML = files.map(f => `<option value="data/${f}">${label(f)}</option>`).join("");
+  const want = params.get("subs") || (files.find(f => f.includes(".v5000.")) && `data/${files.find(f => f.includes(".v5000."))}`);
+  if (want) $file.value = want;
+  if ($file.value) await loadSubs($file.value);
+  else $subs.textContent = "data/ 里没有找到字幕 JSON，先运行 annotate.py";
+}
+
+$file.onchange = () => loadSubs($file.value);
+document.querySelectorAll("[data-mode]").forEach(b => b.onclick = () => {
+  mode = b.dataset.mode;
+  document.querySelectorAll("[data-mode]").forEach(x => x.classList.toggle("on", x === b));
+  $subs.className = "mode-" + mode;
+  lastIdx = -2;
+  if (!player) $subs.innerHTML = render(cues.find(c => c.notes.length));
+});
+
+window.onYouTubeIframeAPIReady = () => {
+  player = new YT.Player("yt", {
+    videoId: VIDEO_ID,
+    playerVars: { cc_load_policy: 0, rel: 0, modestbranding: 1 },
+    events: {
+      // YouTube may auto-enable its own captions; turn them off so only ours show
+      onReady: e => e.target.unloadModule("captions"),
+      onApiChange: e => e.target.unloadModule("captions"),
+      onStateChange: e => { if (e.data === YT.PlayerState.PLAYING) e.target.unloadModule("captions"); },
+    },
+  });
+};
+const s = document.createElement("script");
+s.src = "https://www.youtube.com/iframe_api";
+document.head.appendChild(s);
+
+setInterval(tick, 100);
+listFiles();
+</script>
+</body>
+</html>
