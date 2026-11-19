@@ -8,7 +8,3 @@
 https://github.com/user-attachments/assets/39c68077-8396-4554-ba10-d91ba7ddba8a
 
 
-对比注释数量的变化；还可以切换"上方小字 / 括号 / 纯英文"三种显示方式。
-
-- 视频嵌入自 YouTube，国内需要能访问 YouTube
-- 字幕注释由脚本预先生成（词频筛选 + 大模型结合语境翻译），网页本身不调用任何 API
